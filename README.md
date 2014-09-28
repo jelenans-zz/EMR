@@ -14,3 +14,9 @@ EMR (Electronic Medical Record)
 •	C#, SQL, PL/SQL
 
 ![alt-link](https://raw.githubusercontent.com/jelenans/EMR/master/pic1.png)
+
+![alt-link](https://raw.githubusercontent.com/jelenans/EMR/master/pic2.png)
+
+![alt-link](https://raw.githubusercontent.com/jelenans/EMR/master/pic3.png)
+
+![alt-link](https://raw.githubusercontent.com/jelenans/EMR/master/pic4.png)
