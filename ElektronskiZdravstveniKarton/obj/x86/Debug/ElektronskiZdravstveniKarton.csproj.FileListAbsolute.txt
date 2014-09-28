@@ -1,0 +1,194 @@
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Form1.resources
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.pdb
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+c:\users\jelena\documents\visual studio 2010\Projects\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.pdb
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Form1.resources
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\8.SEMESTAR\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\8.SEMESTAR\Diplomski\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+G:\8.SEMESTAR\Diplomski\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Form11.resources
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.pdb
+C:\Users\e13080\Documents\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PodaciPacijent.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.pdb
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Prijava.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Nalaz.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Recept.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Uput.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.pdb
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.ResolveComReference.cache
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Bolovanje.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Nalaz.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Prijava.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Recept.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Uput.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ReceptSnim.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PregledZK.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.EvidencijaPacijenta.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Pocetna.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Protokol.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Registracija.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzmenaLozinke.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Meni.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniAdmin.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLab.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLekOpste.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLekSpec.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniMedSesTeh.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.OKIzmenaLozinke.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzborLekara.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrijemPacReg.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ZK.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.zkTemp.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisVakcina.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PacZaPrijem.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrepRecUp.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.ResolveComReference.cache
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Bolovanje.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.EvidencijaPacijenta.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzborLekara.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzmenaLozinke.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniAdmin.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLab.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLekOpste.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PacZaPrijem.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniMedSesTeh.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.OKIzmenaLozinke.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrepRecUp.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrijemPacReg.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisVakcina.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ZK.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Pocetna.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PregledZK.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Protokol.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ReceptSnim.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Registracija.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisakAnamneza.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiAnam.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.StatusPregled.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiStat.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe.config
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PruzeneUsluge.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Sugestije.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.UtrosenaSredstva.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe.config
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiAnam.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiStat.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisakAnamneza.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.StatusPregled.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Sugestije.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.UtrosenaSredstva.resources
+G:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PruzeneUsluge.resources
+H:\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrintRecept.resources
+J:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe.config
+J:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.ResolveComReference.cache
+J:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+J:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe.config
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.ResolveComReference.cache
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csprojResolveAssemblyReference.cache
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Bolovanje.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.EvidencijaPacijenta.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzborLekara.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzmenaLozinke.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniAdmin.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLab.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLekOpste.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PacZaPrijem.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniMedSesTeh.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.OKIzmenaLozinke.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrepRecUp.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Prijava.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrijemPacReg.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrintRecept.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiAnam.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiStat.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisakAnamneza.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisVakcina.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.StatusPregled.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Sugestije.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.UtrosenaSredstva.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ZK.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Nalaz.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Pocetna.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PregledZK.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Protokol.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Recept.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ReceptSnim.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Registracija.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Uput.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PruzeneUsluge.resources
+I:\OsTaLo\8.SEMESTAR\Diplomski\NEW\ElektronskiZdravstveniKarton\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\bin\Debug\ElektronskiZdravstveniKarton.exe.config
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.ResolveComReference.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.exe
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.pdb
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Bolovanje.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.EvidencijaPacijenta.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzborLekara.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.IzmenaLozinke.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniAdmin.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLab.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniLekOpste.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PacZaPrijem.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.MeniMedSesTeh.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.OKIzmenaLozinke.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrepRecUp.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Prijava.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrijemPacReg.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PrintRecept.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiAnam.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SnimiStat.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisakAnamneza.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.SpisVakcina.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.StatusPregled.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Sugestije.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.UtrosenaSredstva.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ZK.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Nalaz.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Pocetna.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PregledZK.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Protokol.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Recept.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.ReceptSnim.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Registracija.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.Uput.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.PruzeneUsluge.resources
+C:\Users\Eigenaar\Documents\...................!!!!!ZA EIT ICT PRAKSU!!!!!!!\dokumentation_jelena pantovic\bachelor_thesis_jelena_pantovic\EMR\ElektronskiZdravstveniKarton\obj\x86\Debug\ElektronskiZdravstveniKarton.csproj.GenerateResource.Cache

@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F4262A58-0D2C-45A1-AB95-9A53C7B6A509}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ElektronskiZdravstveniKarton</RootNamespace>
+    <AssemblyName>ElektronskiZdravstveniKarton</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\packages\odp.net.managed.121.1.2\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bolovanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bolovanje.Designer.cs">
+      <DependentUpon>Bolovanje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="EvidencijaPacijenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvidencijaPacijenta.Designer.cs">
+      <DependentUpon>EvidencijaPacijenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzborLekara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzborLekara.Designer.cs">
+      <DependentUpon>IzborLekara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaLozinke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmenaLozinke.Designer.cs">
+      <DependentUpon>IzmenaLozinke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeniLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniLab.Designer.cs">
+      <DependentUpon>MeniLab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeniLekOpste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniLekOpste.Designer.cs">
+      <DependentUpon>MeniLekOpste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeniAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniAdmin.Designer.cs">
+      <DependentUpon>MeniAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PacZaPrijem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PacZaPrijem.Designer.cs">
+      <DependentUpon>PacZaPrijem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeniMedSesTeh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniMedSesTeh.Designer.cs">
+      <DependentUpon>MeniMedSesTeh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OKIzmenaLozinke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OKIzmenaLozinke.Designer.cs">
+      <DependentUpon>OKIzmenaLozinke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrepRecUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrepRecUp.Designer.cs">
+      <DependentUpon>PrepRecUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrijemPac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrijemPac.Designer.cs">
+      <DependentUpon>PrijemPac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintRecept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintRecept.Designer.cs">
+      <DependentUpon>PrintRecept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UtrosenaSredstva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecIIznos.Designer.cs">
+      <DependentUpon>UtrosenaSredstva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SnimiAnam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SnimiAnam.Designer.cs">
+      <DependentUpon>SnimiAnam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SnimiStat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SnimiStat.Designer.cs">
+      <DependentUpon>SnimiStat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpisakAnamneza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpisakAnamneza.Designer.cs">
+      <DependentUpon>SpisakAnamneza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpisVakcina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpisVakcina.Designer.cs">
+      <DependentUpon>SpisVakcina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatusPregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatusPregled.Designer.cs">
+      <DependentUpon>StatusPregled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sugestije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sugestije.Designer.cs">
+      <DependentUpon>Sugestije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZK.Designer.cs">
+      <DependentUpon>ZK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prijava.Designer.cs">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nalaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nalaz.Designer.cs">
+      <DependentUpon>Nalaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pocetna.Designer.cs">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PregledZK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PregledZK.Designer.cs">
+      <DependentUpon>PregledZK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protokol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Protokol.Designer.cs">
+      <DependentUpon>Protokol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recept.Designer.cs">
+      <DependentUpon>Recept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceptSnim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceptSnim.Designer.cs">
+      <DependentUpon>ReceptSnim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registracija.Designer.cs">
+      <DependentUpon>Registracija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uput.Designer.cs">
+      <DependentUpon>Uput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PruzeneUsluge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PruzeneUsluge.Designer.cs">
+      <DependentUpon>PruzeneUsluge.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bolovanje.resx">
+      <DependentUpon>Bolovanje.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EvidencijaPacijenta.resx">
+      <DependentUpon>EvidencijaPacijenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzborLekara.resx">
+      <DependentUpon>IzborLekara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmenaLozinke.resx">
+      <DependentUpon>IzmenaLozinke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeniAdmin.resx">
+      <DependentUpon>MeniAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeniLab.resx">
+      <DependentUpon>MeniLab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeniLekOpste.resx">
+      <DependentUpon>MeniLekOpste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PacZaPrijem.resx">
+      <DependentUpon>PacZaPrijem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeniMedSesTeh.resx">
+      <DependentUpon>MeniMedSesTeh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OKIzmenaLozinke.resx">
+      <DependentUpon>OKIzmenaLozinke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrepRecUp.resx">
+      <DependentUpon>PrepRecUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prijava.resx">
+      <DependentUpon>Prijava.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrijemPac.resx">
+      <DependentUpon>PrijemPac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRecept.resx">
+      <DependentUpon>PrintRecept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SnimiAnam.resx">
+      <DependentUpon>SnimiAnam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SnimiStat.resx">
+      <DependentUpon>SnimiStat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpisakAnamneza.resx">
+      <DependentUpon>SpisakAnamneza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpisVakcina.resx">
+      <DependentUpon>SpisVakcina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusPregled.resx">
+      <DependentUpon>StatusPregled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sugestije.resx">
+      <DependentUpon>Sugestije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UtrosenaSredstva.resx">
+      <DependentUpon>UtrosenaSredstva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZK.resx">
+      <DependentUpon>ZK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nalaz.resx">
+      <DependentUpon>Nalaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pocetna.resx">
+      <DependentUpon>Pocetna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PregledZK.resx">
+      <DependentUpon>PregledZK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Protokol.resx">
+      <DependentUpon>Protokol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recept.resx">
+      <DependentUpon>Recept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceptSnim.resx">
+      <DependentUpon>ReceptSnim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registracija.resx">
+      <DependentUpon>Registracija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uput.resx">
+      <DependentUpon>Uput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PruzeneUsluge.resx">
+      <DependentUpon>PruzeneUsluge.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Help\HelpHCI.chm" />
+    <None Include="Help\HelpHCI.chw" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red__cross.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1336517905_Get_Info.ico" />
+    <None Include="Resources\add.ico" />
+    <None Include="Resources\1336517905_Get_Info1.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
